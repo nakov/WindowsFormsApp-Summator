@@ -1,7 +1,8 @@
-# Summator - Windows Forms Example App
+# Summator - Windows Forms Sample App
 
 Sample Windows Forms App: **Summator of Two Numbers**
 
+Written in C# with Windows Forms as UI library.
 Used for trainings and experiments.
 
 Build with: .NET Framework with Visual Studio 
